@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nodejs-dev/)
-- 🤵 My Personal page: [cozmin.com](https://cozminu.com/)
+- 🤵 My Personal page: [cozminu.com](https://cozminu.com/)
