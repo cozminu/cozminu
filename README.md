@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Cozmin
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nodejs-dev/)
-- 🤵 My Personal page: [cozminu.com](https://cozminu.com/)
+- 👋 Hi, I’m Cozmin  
+- 💻 Senior Backend Developer with 10+ years of experience  
+- 💳 Currently exploring EMV and developing a C-2 compliant JavaCard applet  
+- 📫 How to reach me: LinkedIn  
+- 🌐 Personal page: cozminu.com
